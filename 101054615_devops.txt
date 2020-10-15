@@ -1,0 +1,4 @@
+In this course students will learn the procedures, protocols and best practices a DevOps engineer brings to a
+workplace environment to increase overall company productivity. Examining case studies of developer operation
+implementations and with hands-on lab work using industry standard tooling, individuals will be better informed of
+the core responsibilities an engineer provides to help solve complex business problems.
