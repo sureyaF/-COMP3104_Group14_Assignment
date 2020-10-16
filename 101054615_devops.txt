@@ -1,0 +1,28 @@
+Course Code COMP 3104
+Academic Year 2020-2021
+Term Fall 2020
+Teacher's Name Pritesh.Patel
+Email Pritesh.Patel@georgebrown.ca
+
+Recommended Resources:
+1. https://github.com
+2. https://travis-ci.com
+3. https://docker.com
+4. https://kubernetes.io
+5. https://www.sonarqube.org
+
+
+How to Succeed:
+
+Your success in this course relies on three things:
+1.	Your lab and lecture attendance
+2.	Completion of lecture quizzes
+3.	Following weekly lab exercises
+
+If you follow these three steps, the probability of your success will drastically increase. Completing lectures and labs will be integral to obtaining your marks for the 10 quizzes. The quizzes are designed to help determine and monitor your understanding of the course material. If you have questions about any quiz scores, please notify me and we can look at it together to determine any areas of improvement.
+
+Through completion of lab exercises, foundational knowledge needed to complete the assignment will be formed. Each lab is a puzzle piece needed in order to complete the assignment. If you can’t make a lab or lecture, please email pritesh.patel2@georgebrown.ca to let me know that you’ve missed a class so we can ensure you’re caught up and don’t fall behind. 
+
+With respect to your mid-term and final exam, they will contain questions on concepts that you’ll be familiar with so long that you’ve been attending the labs, lectures and successfully completing your quizzes.
+
+There will be 10 quizzes and the best 8 out of 10 quizzes will be used to determine your grade. For more specifics on how the marks are broken down, you can always ask me or check the course outline at any time for reference.
