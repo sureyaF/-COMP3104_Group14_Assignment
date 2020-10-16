@@ -25,4 +25,4 @@ Through completion of lab exercises, foundational knowledge needed to complete t
 
 With respect to your mid-term and final exam, they will contain questions on concepts that you’ll be familiar with so long that you’ve been attending the labs, lectures and successfully completing your quizzes.
 
-There will be 10 quizzes and the best 8 out of 10 quizzes will be used to determine your grade. For more specifics on how the marks are broken down, you can always ask me or check the course outline at any time for reference.
+There will be 10 quizzes and the best 8 out of 10 quizzes will be used to determine your grade. For more specifics on how the marks are broken down, you can always ask me or check the course outline at any time for reference. 
