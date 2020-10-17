@@ -1,4 +1,4 @@
-this repository is dedicated to DevOps Assignment One The purpose of this Assignment is to handle branching and merging in GitHub
+This repository is dedicated to DevOps Assignment One The purpose of this Assignment is to handle branching and merging in GitHub
 
 step 01 Clone The target repository 
 step 02 start creating the desired branching structure 
