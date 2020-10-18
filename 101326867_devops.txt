@@ -1,0 +1,24 @@
+This course is designed to better prepare professionals entering the IT field.
+Specifically, a field where servers, web apps and infrastructure will be core to business needs.
+COMP 3104 will provide a hands-on experience through the implementation of tried, tested and true DevOps technologies.
+
+Using DevOps practices effectively will allow for a process predicated on ease to ship code to Production servers, apply hot-fixes,
+catch errors before they produce some sort of unintended behavior and keep transparency & communication heightened across all teams.
+Looking at the software development lifecycle through the lens of a DevOps Engineer will produce a more informed and qualified developer.
+
+What is DevOps?
+- DevOps is a new term emerging from the collision of two
+major related trends. The first was also called “agile
+infrastructure” or “agile operations”; it sprang from
+applying Agile and Lean approaches to operations work.
+
+- DevOps is “a cross-disciplinary community of practice
+dedicated to the study of building, evolving and operating
+rapidly-changing resilient systems at scale.” - Jez Humble
+
+- DevOps is a combination of software development and
+information technology operations that enables
+businesses to deliver applications at a faster pace. It
+brings together development and operations teams so
+there are fewer redundancies in the software
+development process.
