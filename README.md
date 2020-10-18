@@ -13,4 +13,3 @@
 **Process:** there should be a branche for each team member to work on and then update branches to track the number of commits and merging with master
 
 *Each text file will contain information about their corresponding topic, written by the student whom's student ID is in the file name.*
-
